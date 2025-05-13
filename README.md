@@ -1,1 +1,4 @@
 # BCNN_DropCNN_classification
+Introduction： We utilize the DiTing 2.0 dataset to develop the Bayesian CNN (BCNN) and DropoutCNN for identifying earthquakes and explosions. Two models can output the uncertainty of classification results without reducing classification accuracy comparaed to traditional determatic CNN.
+'cnn.py': determatic CNN discrimination network. 'model_bayesian_cnn': probalistic CNN discrimination network. 'Dropcnn.py':determatic CNN with Dropout discrimination network. All networks the input is waveform data, with the size of 1×4000, where 1 denotes the number of channels and 4000 signifies the number of sampling points in the seismic time domain. 
+'BAYESIAN_CNN.pth','CNN.pth','DropCNNp0.05.pth','DropCNNp0.1.pth','DropCNNp0.2.pth','DropCNNp0.3.pth','DropCNNp0.4.pth' and 'DropCNNp0.5.pth' is the trained model by 'model_bayesian_cnn','cnn.py','Dropcnn.py' with Dropout value of 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, respectively.
