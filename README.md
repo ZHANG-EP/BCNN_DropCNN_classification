@@ -35,3 +35,5 @@ DropCNNp0.4.pth (p=0.4)
 DropCNNp0.5.pth (p=0.5)
 
 These models were trained using model_bayesian_cnn, cnn.py, and Dropcnn.py with the respective dropout probabilities.
+
+Any questions, please contact: zhangyun@chd.edu.cn.
