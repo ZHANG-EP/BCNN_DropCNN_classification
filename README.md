@@ -16,11 +16,11 @@ Trained Models:
 
 The following pretrained models are available:
 
-BAYESIAN_CNN.pth: Trained Bayesian CNN.
+model/BAYESIAN_CNN.pth: Trained Bayesian CNN.
 
-CNN.pth: Baseline deterministic CNN.
+model/CNN.pth: Baseline deterministic CNN.
 
-Dropout CNNs with varying dropout rates:
+model/Dropout CNNs with varying dropout rates:
 
 DropCNNp0.05.pth (p=0.05)
 
