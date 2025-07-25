@@ -38,8 +38,10 @@ These models were trained using model_bayesian_cnn, cnn.py, and Dropcnn.py with 
 
 ## Install conda and requirements
 #### Download repository
-···git clone https://github.com/yourusername/your-repo.git
-cd your-repo···
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+```
 
 
 Any questions, please contact: zhangyun@chd.edu.cn.
