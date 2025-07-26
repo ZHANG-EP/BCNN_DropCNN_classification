@@ -57,6 +57,6 @@ conda activate BCNN_DropCNN_classification
 python ./src/example_run.py
 ```
 ## Related papers
-Zhang, Yun, Li Xihai, Zeng Xiaoniu, Liu Jihao, and Bai Chaoying. Deep Learning Methods with Additional Confidence Metrics for Robust Earthquake vs. Explosion Classification. submit to GJI (2025).
+Zhang, Yun, Li, Xihai, Zeng, Xiaoniu, Liu, Jihao, and Bai, Chaoying. Deep Learning Methods with Additional Confidence Metrics for Robust Earthquake vs. Explosion Classification. submit to GJI (2025).
 
 Any questions, please contact: zhangyun@chd.edu.cn.
