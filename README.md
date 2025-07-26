@@ -56,7 +56,7 @@ conda activate BCNN_DropCNN_classification
 # please refer to the defaults.py file and the example_run.py file for detailed hyperparameter settings.
 python ./src/example_run.py
 ```
-## Related papers
+## Related paper
 Zhang, Yun, Li, Xihai, Zeng, Xiaoniu, Liu, Jihao, and Bai, Chaoying. Deep Learning Methods with Additional Confidence Metrics for Robust Earthquake vs. Explosion Classification. submitted to GJI (2025).
 
 Any questions, please contact: zhangyun@chd.edu.cn.
