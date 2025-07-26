@@ -42,6 +42,19 @@ These models were trained using model_bayesian_cnn, cnn.py, and Dropcnn.py with 
 git clone https://github.com/ZHANG-EP/BCNN_DropCNN_classification.git
 cd BCNN_DropCNN_classification
 ```
-
+#### Install to default environment
+```bash
+conda env update -f=env.yaml -n base
+```
+#### Install to "BCNN_DropCNN_classification" virtual envirionment
+```bash
+conda env create -f env.yaml
+conda activate BCNN_DropCNN_classification
+```
+## Batch Prediction
+```python
+# please refer to the defaults.py file and the example_run.py file for detailed hyperparameter settings.
+python ./src/example_run.py
+```
 
 Any questions, please contact: zhangyun@chd.edu.cn.
