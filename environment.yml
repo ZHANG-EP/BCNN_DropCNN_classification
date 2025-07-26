@@ -1,4 +1,4 @@
-name: classfier_uncertain
+name: BCNN_DropCNN_classification
 channels:
   - pytorch
   - anaconda
