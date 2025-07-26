@@ -39,8 +39,8 @@ These models were trained using model_bayesian_cnn, cnn.py, and Dropcnn.py with 
 ## Install conda and requirements
 #### Download repository
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/ZHANG-EP/BCNN_DropCNN_classification.git
+cd BCNN_DropCNN_classification
 ```
 
 
